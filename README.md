@@ -1,6 +1,8 @@
 # ansible-role-nsd
 Installs and start nsd on boot. This playbook does not handle zone files! Get more informations about nsd at [https://www.nlnetlabs.nl/projects/nsd/]()
 
+This is forked from the original project to edit for my particular needs
+
 ## Requirements
 * Ubuntu (>=14.04) or Debian (>=8)
 * NSD (>=4)
